@@ -1,3 +1,6 @@
+**Prerequisite**
+NodeJs should be installed. You can install from https://nodejs.org
+
 **Boilerplate for ReactJs App**
 
 **Setup and Start the app**
